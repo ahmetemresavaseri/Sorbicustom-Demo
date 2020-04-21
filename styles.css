@@ -1,0 +1,78 @@
+body {
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Pacifico', cursive;
+  color: black;
+  font-size: 8.960vw;
+}
+
+h2 {
+  color: white;
+  font-size: 4.480vw;
+}
+
+h3 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 3vw;
+}
+
+h4 {
+  font-size: 1.5vw;
+}
+
+.Sorbicustom-Logo-Navbar {
+  width: 5em;
+}
+
+.Navbarequaliser {
+  position: relative;
+  top: 5em;
+}
+
+.hintergrund {
+  width: 100%;
+  z-index: -1;
+  display: inline-block;
+  position: relative;
+  top: -11em;
+}
+
+.image-equaliser {
+  margin-top:-11%;
+}
+
+.V-lone-luis
+{
+  width: 30vw;
+  height: 30vw;
+  border-style:solid;
+  border-width: medium;
+  border-color: orange;
+
+}
+
+.HUCCI-BAG
+{
+  width: 30vw;
+  height: 30vw;
+  border-style:solid;
+  border-width: medium;
+  border-color: green;
+}
+
+.Sorbi-Weste
+{
+  width: 30vw;
+  height: 30vw;
+  border-style:solid;
+  border-width: medium;
+  border-color: black;
+}
+
+
+.margin-top
+{
+  margin-top:3vw;
+}
